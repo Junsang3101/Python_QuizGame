@@ -1,2 +1,5 @@
-# python_quizgame
-codyssey 입학 연수 미션1-2 파이썬 퀴즈 게임 만들기
+# python quizgame
+
+## 0. 프로젝트 개요
+
+## 1. 프로젝트 구조

@@ -1,0 +1,9 @@
+services:
+  py_app: 
+    build: 
+      context: ./python_app
+      dockerfile: Dockerfile
+    ports:
+      - ${HOST_PORT}:${APP_PORT}
+    env_file:
+      - .env
